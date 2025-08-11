@@ -49,12 +49,7 @@ Click “Next video”
 
 Repeat until you stop it
 
-To stop the bot, press:
-
-mathematica
-Copy
-Edit
-Ctrl + C
+To stop the bot, press: Ctrl + C
 
 
 

@@ -13,6 +13,10 @@ Works silently in the background
 
 # Download The .PNGS
 
+https://github.com/ErsirMixly1/tiktok-unreposter/blob/main/reposted_icon.png
+
+https://github.com/ErsirMixly1/tiktok-unreposter/blob/main/next_video.png
+
 # 3️⃣ Configuration
 If needed, update the script’s constants:
 

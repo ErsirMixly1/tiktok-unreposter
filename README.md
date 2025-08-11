@@ -1,4 +1,4 @@
-FEATURES:
+# FEATURES
 
 automatically detects the TikTok “reposted” icon in your browser and clicks to unrepost the video, then moves on to the next one.
 

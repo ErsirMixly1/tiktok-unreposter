@@ -11,7 +11,7 @@ Clicks “Next video” to move on
 Works silently in the background
 
 
-Tutorial:
+# Tutorial:
 Place two image files in the your Downloads Folder =
 
 reposted_icon.png – cropped screenshot of the solid repost icon

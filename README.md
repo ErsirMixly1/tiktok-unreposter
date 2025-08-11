@@ -30,7 +30,7 @@ MATCH_THRESHOLD = 0.88     # matching accuracy (0.0–1.0)
 # Coordinates fallback clicks
 FALLBACK_NEXT = (1335, 599)
 TIKTOK_TAB = (125, 19)
-
+```
 If the bot doesn’t click correctly, adjust FALLBACK_NEXT and TIKTOK_TAB coordinates.
 You can find them using a mouse position tool like MousePos.exe or by printing mouse positions with Python.
 

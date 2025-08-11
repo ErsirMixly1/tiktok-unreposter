@@ -19,24 +19,16 @@ https://github.com/ErsirMixly1/tiktok-unreposter/blob/main/next_video.png
 
 # 3️⃣ Configuration
 If needed, update the script’s constants:
-
+```bash
 Copy
-
 Edit
-
 ICON_DIR = "."  # folder containing your icons
-
 REPOST_ICON = "reposted_icon.png"
-
 NEXT_BUTTON_ICON = "next_video.png"
-
 WINDOW_TITLE = "TikTok -"  # part of the browser tab title
-
 MATCH_THRESHOLD = 0.88     # matching accuracy (0.0–1.0)
-
 # Coordinates fallback clicks
 FALLBACK_NEXT = (1335, 599)
-
 TIKTOK_TAB = (125, 19)
 
 If the bot doesn’t click correctly, adjust FALLBACK_NEXT and TIKTOK_TAB coordinates.

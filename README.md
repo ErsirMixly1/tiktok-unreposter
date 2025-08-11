@@ -9,11 +9,11 @@ Clicks “Next video” to move on
 
 Handles cases where TikTok tab is inactive
 
-
-
 Works silently in the background
 
-Place two image files in the same folder as the script:
+
+Tutorial:
+Place two image files in the your Downloads Folder =
 
 reposted_icon.png – cropped screenshot of the solid repost icon
 
@@ -21,6 +21,11 @@ next_video.png – cropped screenshot of the next video button
 
 (I Already Provided These, but you can take a screenshot of them yourself)
 
+Then Go to Tiktok.com/@(yourusername)
+
+Click "Reposts"
+
+Click Any Video Underneath the Reposts tab, & just let the bot work from there.
 
 
 

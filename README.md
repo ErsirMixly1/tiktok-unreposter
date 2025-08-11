@@ -20,8 +20,6 @@ https://github.com/ErsirMixly1/tiktok-unreposter/blob/main/next_video.png
 # 3️⃣ Configuration
 If needed, update the script’s constants:
 ```bash
-Copy
-Edit
 ICON_DIR = "."  # folder containing your icons
 REPOST_ICON = "reposted_icon.png"
 NEXT_BUTTON_ICON = "next_video.png"

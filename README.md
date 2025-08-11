@@ -1,9 +1,15 @@
-# TikTok Unreposter
+This Python script automatically detects the TikTok “reposted” icon in your browser and clicks to unrepost the video, then moves on to the next one.
 
-This script automatically unreposts videos on TikTok Desktop and goes to the next video.
-(I tested this on Brave browser, so here are thing you should know:) You have to click onto the first video in the Repost tab & it will go from there.
+Features
+Detects reposted videos using image matching
 
-The Bot Makes Mistakes.
+Unreposts them automatically
+
+Clicks “Next video” to move on
+
+Handles cases where TikTok tab is inactive
+
+Works silently in the background
 
 ## Requirements
 - Python 3

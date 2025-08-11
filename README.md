@@ -1,8 +1,13 @@
 FEATURES:
+
 automatically detects the TikTok “reposted” icon in your browser and clicks to unrepost the video, then moves on to the next one.
+
 Detects reposted videos using image matching
+
 Unreposts them automatically
+
 Clicks “Next video” to move on
+
 Works silently in the background
 
 

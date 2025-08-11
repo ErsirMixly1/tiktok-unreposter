@@ -30,20 +30,16 @@ FALLBACK_NEXT = (1335, 599)
 TIKTOK_TAB = (125, 19)
 ```
 If the bot doesn’t click correctly, adjust FALLBACK_NEXT and TIKTOK_TAB coordinates.
-You can find them using a mouse position tool like MousePos.exe or by printing mouse positions with Python.
+You can find them using a mouse position tool; https://github.com/ErsirMixly1/coordinates/blob/main/cordinates.py
 
 # 4️⃣ Running the Bot
 Open TikTok in your browser and make sure it’s visible on your screen.
 
 Keep the window active and at the same resolution as when you took your icon screenshots.
 
-In Command Prompt, run:
+just click the file & if it doesnt open, open it via command prompt. 
 
-bash
-Copy
-Edit
-python script.py
-The bot will:
+After that The bot will:
 
 Find reposted videos
 
